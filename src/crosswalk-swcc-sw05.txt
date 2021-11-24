@@ -1,0 +1,1 @@
+{"legacyBreakPointObj":{"ERC":{"dry":55,"veryDry":70},"F100":{"dry":11,"veryDry":7}},"element1DryPercentile":0.22354557947778286,"element1VeryDryPercentile":0.5080164910673385,"element2DryPercentile":0.8524965643609711,"element2VeryDryPercentile":0.5423728813559322,"element1Crosswalk":[40.1,50.8],"element2Crosswalk":[13.4,9.9]}
